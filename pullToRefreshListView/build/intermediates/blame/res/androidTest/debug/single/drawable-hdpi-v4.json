@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\asproject\\LibraryTest\\pullToRefreshListView\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\default_ptr_rotate.png",
+        "source": "D:\\asproject\\LibraryTest\\pullToRefreshListView\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "D:\\asproject\\LibraryTest\\pullToRefreshListView\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\default_ptr_flip.png",
+        "source": "D:\\asproject\\LibraryTest\\pullToRefreshListView\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\default_ptr_flip.png"
+    },
+    {
+        "merged": "D:\\asproject\\LibraryTest\\pullToRefreshListView\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\indicator_arrow.png",
+        "source": "D:\\asproject\\LibraryTest\\pullToRefreshListView\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\indicator_arrow.png"
+    }
+]

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_gravity="center"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/unselected">
+    <LinearLayout
+        android:background="@color/selected"
+        android:layout_gravity="center"
+        android:id="@+id/linear1"
+        android:layout_weight="1"
+        android:layout_width="0dp"
+        android:layout_height="match_parent">
+        <ImageView
+            android:layout_gravity="center_horizontal"
+            android:src="@drawable/account_unselected"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/home"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_gravity="center"
+        android:id="@+id/linear2"
+        android:layout_weight="1"
+        android:layout_width="0dp"
+        android:layout_height="match_parent">
+        <ImageView
+            android:layout_gravity="center"
+            android:src="@drawable/chat_unselected"
+            android:id="@+id/chat"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_gravity="center"
+        android:id="@+id/linear3"
+        android:layout_weight="1"
+        android:layout_width="0dp"
+        android:layout_height="match_parent">
+        <ImageView
+            android:layout_gravity="center"
+            android:src="@drawable/settings_unselected"
+            android:id="@+id/settings"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+    </LinearLayout>
+</LinearLayout>
